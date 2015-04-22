@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Брзо време емитовања</string>
+    <string name="mainone">Телеком обрачуна и допуне Мобилни</string>
+    <string name="delete">. Избришите</string>
+    <string name="deleteall">Обриши све</string>
+    <string name="continua">наставити</string>
+    <string name="send">Пошаљи</string>
+    <string name="typecountry">Откуцајте да траже земљу</string>
+    <string name="discountcode">Попуст код</string>
+    <string name="discountcodetitle">Молимо Вас да унесете ваш код попуст</string>
+    <string name="discountdetail">* Попуст кодови су само за програме награђивања.</string>
+    <string name="discountdetail2">* Молимо вас да наставите даље коришћење Ако немате код попуст.</string>
+    <string name="gatewayminerror">Ова опција плаћања трансакција има минималну границу\u0020</string>
+    <string name="amountmultiple">Износ мора бити ушао у мултипликатора\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">О нама</string>
+    <string name="viewHis">Погледајте историју</string>
+    <string name="phonehint">Број мобилног телефона (08022222222)</string>
+    <string name="emailhint">Е-маил адреса (you@yahoo.com)</string>
+    <string name="top1">Молимо унесите број Трансацтион ИД да бисте отворили разговор.</string>
+    <string name="top2">НАПОМЕНА: Наш кориснички сервис тим ће само одговорити на важећи број трансакције идентификациони</string>
+    <string name="livechat">Ливе цхат</string>
+    <string name="topup2">Топ-уп</string>
+    <string name="transIdNum">ИД Број трансакција</string>
+    <string name="hintmessage">Унесите поруку овде</string>
+    <string name="open">отворити</string>
+    <string name="liveLabel">Корисничка подршка - Ливе цхат</string>
+    <string name="tryag">Покушајте поново</string>
+    <string name="transExist">Жао нам је број трансакције унели не постоји</string>
+    <string name="vcountries">Земље</string>
+    <string name="vlang">Језици</string>
+    <string name="vcurrency">валута</string>
+    <string name="welcome">добродошао</string>
+    <string name="vpay">платити</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">Трансакција Успешна</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Молимо изаберите Преференцес</string>
+    <string name="iAgree">Слажем се\u0020</string>
+    <string name="tandC">Термс и споразум\u0020</string>
+    <string name="ofQuiA">од QuickAirTime.</string>
+    <string name="enter">унети</string>
+    <string name="copyrightFoot">Цопиригхт ©  ввв.куицкаиртиме.цом. Сва права задржана.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Промена Земља</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">трансакција Историја</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">Одаберите Језик</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">Вредност у</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Плаћање потврда</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Износ:\u0020</string>
+    <string name="network">Оператор Мрезе:\u0020</string>
+    <string name="tranid">ИД Број трансакција:\u0020</string>
+    <string name="contactus">Контактирајте нас: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">ове куповине.</string> 
+    <string name="paybyclick">Молимо вас да обратите на неки од доле наведених опција плаћања</string>
+    <string name="date">датум:\u0020</string>
+    <string name="time">време:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">Трансакција извештај</string>
+    <string name="retry">Ретри</string>
+    <string name="sametran">истој трансакцији</string>
+    <string name="newtran">Нова трансакција</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Број мобилног телефона:\u0020</string>
+    <string name="email">Е-маил адреса:\u0020</string> 
+    <string name="dateTime">Датум / време:\u0020</string>
+    <string name="goback">Назад</string>
+    <string name="reload">Напуни</string>
+    <string name="historyItem">Артикал Историја</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Молимо Вас да изаберете важећу оператору мреле.</string>
+    <string name="chooseValidEmail">Унесите важећу адресу е-поште.</string>
+    <string name="enterMinMax">Унесите важећу износ у мин-мак домета.</string>
+    <string name="validPhoneNetwork">Унесите важећи број телефона за одабране мреже.</string>
+    <string name="enterValidPhone">Унесите важећи број телефона.</string>
+    <string name="agreeTandC">Морате да се слажете са условима и пре него што наставите.</string>
+    <string name="chooseCountryLang">Молимо Вас да одаберете земљу и жељени језик.</string>
+    <string name="delAllHistory">Да ли сте сигурни да желите да обришете све ставке из историје?</string>
+    <string name="selectPrefOpt">Изаберите жељену опцију испод:</string>
+    <string name="noTrans">Не Трансакција је обављена на уређају.</string>
+    <string name="errorTitle">грешка</string>
+    <string name="delTitle">избрисати</string>
+    <string name="delItem">Да ли сте сигурни да желите да избришете овај артикал?</string>
+    <string name="menuTitle">мени</string>
+    <string name="viw">Погледај</string>
+    <string name="selectCountry">Изаберите државу</string>
+    <string name="netOperator">Оператор Мрезе</string>
+    <string name="ok">у реду</string>
+</resources>

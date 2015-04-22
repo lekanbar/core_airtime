@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	android:id="@+id/widget41"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="#ffffff"
+	android:padding="10dp"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+    
+<ScrollView android:id="@+id/scrollView2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fadeScrollbars="true"
+                      android:scrollbarFadeDuration="1000" android:layout_alignParentTop="true" android:background="#F0F0F0" android:layout_above="@+id/layfoot">
+<LinearLayout
+	android:id="@+id/widgetgyg"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical"
+	android:gravity="center_horizontal"
+	>
+	<com.core.airtime.SlideMenu
+        android:id="@+id/slideMenu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+	<LinearLayout
+	android:id="@+id/widget39"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:background="#ffffff"
+	android:padding="20dp"
+	android:orientation="vertical">
+<ImageView
+	android:id="@+id/widget40"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_gravity="center"
+	android:contentDescription="@string/empty"
+	android:src="@drawable/header"
+	/>
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/laytop"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:padding="10dp"
+	android:orientation="vertical" 
+	android:background="#00CC00">
+<TextView
+	android:id="@+id/widget43"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/tranReport"
+	android:textSize="16sp"
+	android:layout_gravity="left" 
+	android:textColor="#ffffff" />
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget44"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/giyili787gk"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:layout_marginLeft="10dp"
+	android:layout_marginBottom="10dp"
+	android:text="@string/network"
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblNetwork"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:background="@drawable/custom_border"
+	android:layout_marginTop="0dp"
+	android:orientation="horizontal">
+    
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget50"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="20dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/kjhgyig"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/topup"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:layout_marginBottom="10dp"
+	android:layout_marginLeft="10dp"
+	android:layout_gravity="center_horizontal"  
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblPhone"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	android:textStyle="bold"
+	android:textSize="16sp" 
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:background="@drawable/custom_border"
+	android:layout_marginTop="0dp"
+	android:orientation="horizontal">
+    
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget5haj0"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="20dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/giyiligk"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/amount"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:layout_marginLeft="10dp"
+	android:layout_marginBottom="10dp"
+	android:layout_gravity="center_horizontal" 
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblAmount"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:text="@string/empty"
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:background="@drawable/custom_border"
+	android:layout_marginTop="0dp"
+	android:orientation="horizontal">
+    
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget52"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="20dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/widget53"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/tranid"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:layout_marginLeft="10dp"
+	android:layout_marginBottom="10dp"
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblTransactionID"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:text="@string/empty"
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:background="@drawable/custom_border"
+	android:layout_marginTop="0dp"
+	android:orientation="horizontal">
+    
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widsddget52"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="20dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/widgeedewt53"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/email"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:layout_marginLeft="10dp"
+	android:layout_marginBottom="10dp"
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblEmail"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:text="@string/empty"
+	android:layout_gravity="center_horizontal" 
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:background="@drawable/custom_border"
+	android:layout_marginTop="0dp"
+	android:orientation="horizontal">
+    
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widgdsdswewdiop"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="20dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/lbewewe3231ere"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/paymentgate"
+	android:textColor="#000000"
+	android:textSize="16sp"
+	android:layout_marginBottom="10dp"
+	android:layout_marginLeft="10dp"
+	android:textStyle="bold"
+	android:layout_gravity="center_horizontal"/>
+<TextView
+	android:id="@+id/lblPaymentGateway"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty" 
+	android:textColor="#0000FF"
+	android:textStyle="bold"
+	android:textSize="16sp"/>
+</LinearLayout>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:background="@drawable/custom_border"
+	android:layout_marginTop="0dp"
+	android:orientation="horizontal">
+    
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/laypaystatus"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="20dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/lbewewerere"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/payment"
+	android:textSize="16sp"
+	android:layout_marginLeft="10dp"
+	android:layout_marginBottom="10dp"
+	android:textColor="#000000"
+	android:textStyle="bold"
+	/>
+<TextView
+	android:id="@+id/lblPaymentStatus"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	android:textStyle="bold"
+	android:textSize="16sp"/>
+</LinearLayout>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:background="@drawable/custom_border"
+	android:layout_marginTop="0dp"
+	android:orientation="horizontal">
+    
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/laytopupstatus"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="20dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/dsfdfjkdjfkd"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/topup4"
+	android:textColor="#000000"
+	android:textSize="16sp"
+	android:layout_marginLeft="10dp"
+	android:layout_marginBottom="10dp"
+	android:textStyle="bold"/>
+<TextView
+	android:id="@+id/lblTopupStatus"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:layout_marginBottom="10dp"/>
+</LinearLayout>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:background="@drawable/custom_border"
+	android:layout_marginTop="0dp"
+	android:orientation="horizontal">
+    
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/laytransreport"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:visibility="gone"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/dsfd435fkd"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/transreport"
+	android:textSize="16sp"
+	android:layout_marginLeft="10dp"
+	android:layout_marginBottom="10dp"
+	android:textColor="#000000"
+	/>
+<TextView
+	android:id="@+id/lblTransReport"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:textSize="16sp"
+	android:layout_marginBottom="10dp"
+	android:text="@string/empty"/>
+</LinearLayout>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:background="@drawable/custom_border"
+	android:layout_marginTop="0dp"
+	android:orientation="horizontal">
+    
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/layout_jljslho"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:orientation="vertical" 
+	android:layout_marginTop="30dp">
+<TextView
+	android:id="@+id/widget53jdsj32k"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/retry"
+	android:textStyle="bold"
+	android:textSize="16sp"
+	android:layout_gravity="center_horizontal" 
+	android:textColor="#000000" />
+</LinearLayout>
+<HorizontalScrollView android:id="@+id/HorizontalScrollView01" 
+                      android:layout_width="wrap_content" 
+                      android:layout_height="wrap_content" android:layout_marginTop="10dp">
+<LinearLayout
+	android:id="@+id/widget69"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal">
+<Button
+	android:id="@+id/cmdSameTransaction"
+	android:layout_width="120dp"
+	android:layout_height="50dp"
+	android:text="@string/sametran"
+	android:textColor="#ffffff"
+	android:background="#000000"
+    android:focusable="true"
+    android:layout_marginRight="10dp"
+	/>
+<Button
+	android:id="@+id/cmdNewTransaction"
+	android:layout_width="120dp"
+	android:layout_height="50dp"
+	android:text="@string/newtran"
+	android:textColor="#ffffff"
+	android:background="#000000"
+    android:focusable="true"
+	/>
+</LinearLayout>
+</HorizontalScrollView>
+</LinearLayout>
+</ScrollView>
+<RelativeLayout
+	android:id="@+id/layfoot"
+	android:layout_width="fill_parent"
+	android:layout_height="50dp"
+	android:orientation="horizontal"
+	android:layout_alignParentBottom="true"
+	android:background="#ffffff"
+	>
+
+<ImageView
+    android:id="@+id/imgFoot"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:contentDescription="@string/empty"
+    android:src="@drawable/footer" />
+
+<ImageView
+    android:id="@+id/imgMenu"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_centerVertical="true"
+    android:layout_marginLeft="10dp"
+    android:clickable="true"
+    android:contentDescription="@string/empty"
+    android:src="@drawable/menu_selector" />
+
+</RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	android:id="@+id/widget41"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="#00FF00"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<ScrollView android:id="@+id/scrollView2" android:layout_width="fill_parent" android:layout_height="wrap_content" 
+    android:layout_alignParentTop="true" android:layout_above="@+id/layfoot">
+<LinearLayout
+	android:id="@+id/widget8334"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical">
+	<LinearLayout
+	android:id="@+id/widget39"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical"
+	android:background="#ffffff" 
+	android:padding="20dp"
+	>
+<ImageView
+	android:id="@+id/imgLogo"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:contentDescription="@string/empty"
+	android:layout_gravity="center"
+	android:src="@drawable/header" />
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget83"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:background="#00CC00"
+	android:orientation="vertical">
+<TextView
+	android:id="@+id/widget84"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/discountcodetitle"
+	android:textSize="14sp"
+	android:layout_marginTop="5dp"
+	android:textColor="#ffffff"
+	android:paddingLeft="5dp"
+	android:layout_marginBottom="10dp" />
+</LinearLayout>
+<EditText
+	android:id="@+id/txtEmail"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:textSize="18sp"
+	android:singleLine="true"
+	android:inputType="textEmailAddress"
+	android:layout_margin="10dp"
+	android:hint="@string/emailhint"
+	android:layout_gravity="center_horizontal" />
+
+<EditText
+	android:id="@+id/txtDiscountCode"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:textSize="18sp"
+	android:singleLine="true"
+	android:layout_margin="10dp"
+	android:hint="@string/discountcode"
+	android:layout_gravity="center_horizontal" />
+<TextView
+	android:id="@+id/widget8489"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/discountdetail"
+	android:textSize="14sp"
+	android:textColor="#FF0000"
+	android:paddingLeft="10dp" />
+<TextView
+	android:id="@+id/widget8489ad"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/discountdetail2"
+	android:textSize="14sp"
+	android:textColor="#FF0000"
+	android:padding="10dp" />
+<LinearLayout
+	android:id="@+id/widget83ab"
+	android:layout_width="wrap_content" android:layout_marginRight="10dp"
+	android:layout_height="wrap_content" android:layout_marginTop="10dp"
+	android:orientation="vertical" android:layout_gravity="right">
+<Button
+	android:id="@+id/cmdEnter"
+	android:layout_width="100dp"
+	android:background="#00CC00"
+	android:layout_height="50dp"
+	android:textColor="#ffffff"
+	android:text="@string/continua"/>
+</LinearLayout>
+</LinearLayout>
+</ScrollView>
+<RelativeLayout
+	android:id="@+id/layfoot"
+	android:layout_width="fill_parent"
+	android:layout_height="50dp"
+	android:orientation="horizontal"
+	android:layout_alignParentBottom="true"
+	android:background="#ffffff"
+	>
+<ImageView
+    android:id="@+id/imgFoot"
+    android:layout_width="200dp"
+    android:layout_height="50dp"
+    android:layout_alignParentRight="true"
+    android:contentDescription="@string/empty"
+    android:layout_marginRight="10dp"
+    android:src="@drawable/footer" />
+</RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="language_options">
+		<item>@string/chooseLang</item>
+		<item>Arabic</item>
+		<item>Chinese</item>
+		<item>Dutch</item>
+		<item>English</item>
+		<item>French</item>
+		<item>German</item>
+		<item>Italian</item>
+		<item>Malay</item>
+		<item>Persian</item>
+		<item>Portuguese</item>
+		<item>Romanian</item>
+		<item>Russian</item>
+		<item>Serbian</item>
+		<item>Slovak</item>
+		<item>Slovenian</item>
+		<item>Spanish</item>
+		<item>Swahili</item>
+		<item>Swedish</item>
+		<item>Turkish</item>
+		<item>Ukranian</item>
+		<item>Vietnamese</item>
+		<item>Welsh</item>
+	</string-array>
+	
+	<string-array name="language_codes">
+		<item>nil</item>
+		<item>ar</item>
+		<item>zh</item>
+		<item>nl</item>
+		<item>en</item>
+		<item>fr</item>
+		<item>de</item>
+		<item>it</item>
+		<item>ms</item>
+		<item>fa</item>
+		<item>pt</item>
+		<item>ro</item>
+		<item>ru</item>
+		<item>sr</item>
+		<item>sk</item>
+		<item>sl</item>
+		<item>es</item>
+		<item>sw</item>
+		<item>sv</item>
+		<item>tr</item>
+		<item>uk</item>
+		<item>vi</item>
+		<item>cy</item>
+	</string-array>
+	
+	<string-array name="localusd_options">
+		<item>Select Currency</item>
+		<item>Local</item>
+		<item>USD</item>
+	</string-array>
+</resources>

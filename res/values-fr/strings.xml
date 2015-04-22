@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">De temps d\'antenne rapide</string>
+    <string name="mainone">Facturation Télécoms et de recharge mobile</string>
+    <string name="delete">Supprimer</string>
+    <string name="deleteall">Supprimer tous les</string>
+    <string name="continua">continuer</string>
+    <string name="send">Envoyer</string>
+    <string name="typecountry">Tapez à la recherche pour le pays</string>
+    <string name="discountcode">code de Réduction</string>
+    <string name="discountcodetitle">S\'il vous plaît entrer votre code de réduction</string>
+    <string name="discountdetail">* Les codes promotionnels sont uniquement applicables aux programmes de récompense.</string>
+    <string name="discountdetail2">* S\'il vous plaît se faire en utilisant continuer Si vous n\'avez pas un code de réduction.</string>
+    <string name="gatewayminerror">Cette option de paiement a une limite de transaction minimum de\u0020</string>
+    <string name="amountmultiple">Montant inscrit doit être un multiple de\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">À propos de nous</string>
+    <string name="viewHis">Afficher l\'historique</string>
+    <string name="phonehint">Numéro de téléphone (08022222222)</string>
+    <string name="emailhint">Email (you@yahoo.com)</string>
+    <string name="top1">S\'il vous plaît entrez le numéro ID de la transaction pour ouvrir une conversation.</string>
+    <string name="top2">S\'IL VOUS PLAÎT NOTE: Notre équipe du service clientèle ne répond à un numéro d\'identification de transaction valide</string>
+    <string name="transIdNum">Numéro de transaction</string>
+    <string name="hintmessage">Entrez message ici</string>
+    <string name="open">ouvert</string>
+    <string name="liveLabel">Soutien à la clientèle - Chat en direct</string>
+    <string name="tryag">Essayez à nouveau</string>
+    <string name="transExist">Numéro de transaction Désolé saisi n\'existe pas</string>
+    <string name="vcountries">pays</string>
+    <string name="vlang">langues</string>
+    <string name="vcurrency">monnaie</string>
+    <string name="welcome">accueil</string>
+    <string name="vpay">payer</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">Transaction réussie</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Veuillez choisir les préférences</string>
+    <string name="iAgree">Je suis d\'accord à l\'\u0020</string>
+    <string name="tandC">Conditions générales de vente Contrat\u0020</string>
+    <string name="ofQuiA">de QuickAirTime.</string>
+    <string name="enter">Entrer</string>
+    <string name="copyrightFoot">Copyright ©  www.quickairtime.com. Tous droits réservés.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Changer de pays</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">Historique des Transactions</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">Choisir la Langue</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">Valeur Dans</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Confirmation de paiement</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Montant:\u0020</string>
+    <string name="network">Réseau:\u0020</string>
+    <string name="tranid">Numéro de transaction:\u0020</string>
+    <string name="contactus">Contactez-nous: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">de cet achat.</string> 
+    <string name="paybyclick">S\'il vous plaît payer en utilisant l\'une des options de paiement ci-dessous</string>
+    <string name="date">Date:\u0020</string>
+    <string name="time">Temps:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">Rapport des transactions</string>
+    <string name="retry">Réessayer</string>
+    <string name="sametran">Même Transaction</string>
+    <string name="newtran">Nouvelle transaction</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Numéro de téléphone portable:\u0020</string>
+    <string name="email">Email:\u0020</string> 
+    <string name="dateTime">Date/Temps:\u0020</string>
+    <string name="goback">aller Retour</string>
+    <string name="reload">Recharger</string>
+    <string name="historyItem">Historique des objets</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">S\'il vous plaît choisir un opérateur de réseau valide.</string>
+    <string name="chooseValidEmail">S\'il vous plaît entrer une adresse email valide.</string>
+    <string name="enterMinMax">S\'il vous plaît entrer un montant valable au sein de la gamme min-max.</string>
+    <string name="validPhoneNetwork">S\'il vous plaît entrez un numéro de téléphone valide pour le réseau choisi.</string>
+    <string name="enterValidPhone">S\'il vous plaît entrer un numéro de téléphone valide.</string>
+    <string name="agreeTandC">Vous devez accepter les termes et conditions avant de poursuivre.</string>
+    <string name="chooseCountryLang">S\'il vous plaît choisir un pays et la langue préférée.</string>
+    <string name="delAllHistory">Etes-vous sûr de vouloir supprimer tous les éléments de l\'historique?</string>
+    <string name="selectPrefOpt">S\'il vous plaît sélectionnez l\'option préférée ci-dessous:</string>
+    <string name="noTrans">Aucune transaction n\'a été effectuée sur l\'appareil.</string>
+    <string name="errorTitle">erreur</string>
+    <string name="delTitle">effacer</string>
+    <string name="delItem">Etes-vous sûr de vouloir supprimer cet élément?</string>
+    <string name="menuTitle">menu</string>
+    <string name="viw">voir</string>
+    <string name="selectCountry">Choisissez un pays</string>
+    <string name="netOperator">Opérateur de réseau</string>
+</resources>

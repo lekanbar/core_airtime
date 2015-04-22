@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snabb samtalstrafik</string>
+    <string name="mainone">Telekom Billing och Mobile Recharge</string>
+    <string name="delete">Radera</string>
+    <string name="deleteall">Radera alla</string>
+    <string name="continua">fortsätta</string>
+    <string name="send">Skicka</string>
+    <string name="typecountry">Skriv för att söka efter land</string>
+    <string name="discountcode">rabattkod</string>
+    <string name="discountcodetitle">Ange ditt rabattkod</string>
+    <string name="discountdetail">* Rabattkoder är bara tillämpliga på belöning program.</string>
+    <string name="discountdetail2">* Gå vidare med Fortsätt om du inte har en rabattkod.</string>
+    <string name="gatewayminerror">Denna betalning alternativ har en minst transaktion gränsen\u0020</string>
+    <string name="amountmultiple">Beloppet måste vara multiplar av\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">Om oss</string>
+    <string name="viewHis">Visa historik</string>
+    <string name="phonehint">Mobilnummer (08022222222)</string>
+    <string name="emailhint">E-postadress (you@yahoo.com)</string>
+    <string name="top1">Ange numret Transaction ID för att öppna en konversation.</string>
+    <string name="top2">OBS: Vår kundtjänst kommer bara svara på en giltig transaktion Identification Number</string>
+    <string name="livechat">chatt</string>
+    <string name="transIdNum">Transaktion ID-nummer</string>
+    <string name="hintmessage">Anger meddelande här</string>
+    <string name="open">öppet</string>
+    <string name="liveLabel">Kundsupport - Live Chat</string>
+    <string name="tryag">Försök igen</string>
+    <string name="transExist">Tyvärr transaktionen numret finns inte</string>
+    <string name="vcountries">länder</string>
+    <string name="vlang">Språk</string>
+    <string name="vcurrency">valuta</string>
+    <string name="welcome">välkommet</string>
+    <string name="vpay">betala</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">transaktion Framgångsrik</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Var god välj inställningar</string>
+    <string name="iAgree">Jag godkänner\u0020</string>
+    <string name="tandC">Villkor och Avtal\u0020</string>
+    <string name="ofQuiA">av QuickAirTime.</string>
+    <string name="enter">anger</string>
+    <string name="copyrightFoot">Copyright ©  www.quickairtime.com. Med ensamrätt.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Ändra land</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">Transaktionshistorik</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">Välj språk</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">värde i</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Betalning bekräftelse</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Belopp:\u0020</string>
+    <string name="network">Nätoperatör:\u0020</string>
+    <string name="tranid">Transaktion ID:\u0020</string>
+    <string name="contactus">Kontakta oss: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">detta inköp.</string> 
+    <string name="paybyclick">Vänligen betala med någon av de betalningsalternativ som anges nedan</string>
+    <string name="date">datum:\u0020</string>
+    <string name="time">tid:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">Transaktionsrapport</string>
+    <string name="retry">Försök igen</string>
+    <string name="sametran">Samma Transaktion</string>
+    <string name="newtran">Ny transaktion</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Mobilnummer:\u0020</string>
+    <string name="email">E-postadress:\u0020</string> 
+    <string name="dateTime">Datum / Tid:\u0020</string>
+    <string name="goback">Tillbaka</string>
+    <string name="reload">Ladda</string>
+    <string name="historyItem">historikobjekt</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Välj en giltig nätoperatör.</string>
+    <string name="chooseValidEmail">Ange en giltig e-postadress.</string>
+    <string name="enterMinMax">Ange ett giltigt belopp inom min-max sortiment.</string>
+    <string name="validPhoneNetwork">Ange ett giltigt telefonnummer för den valda nätverket.</string>
+    <string name="enterValidPhone">Ange ett giltigt telefonnummer.</string>
+    <string name="agreeTandC">Du måste godkänna villkoren innan du fortsätter.</string>
+    <string name="chooseCountryLang">Välj ett land och språk.</string>
+    <string name="delAllHistory">Är du säker på att du vill ta bort alla historia objekt?</string>
+    <string name="selectPrefOpt">Välj önskat alternativ nedan:</string>
+    <string name="noTrans">Inga transaktioner har genomförts på enheten.</string>
+    <string name="errorTitle">fel</string>
+    <string name="delTitle">bort</string>
+    <string name="delItem">Är du säker på att du vill ta bort detta objekt?</string>
+    <string name="menuTitle">meny</string>
+    <string name="viw">Visa</string>
+    <string name="selectCountry">Välj land</string>
+    <string name="netOperator">nätoperatör</string>
+</resources>

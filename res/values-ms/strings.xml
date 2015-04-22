@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Masa Berbual cepat</string>
+    <string name="mainone">Bil telekom dan Recharge Bergerak</string>
+    <string name="delete">Padam</string>
+    <string name="deleteall">Memadam semua</string>
+    <string name="continua">terus</string>
+    <string name="send">Hantar</string>
+    <string name="typecountry">Menaip untuk mencari negara</string>
+    <string name="discountcode">Kod diskaun</string>
+    <string name="discountcodetitle">Sila masukkan kod diskaun anda</string>
+    <string name="discountdetail">* Kod diskaun hanya boleh digunakan untuk program ganjaran.</string>
+    <string name="discountdetail2">* Sila berurusan dengan menggunakan terus Jika anda tidak mempunyai kod diskaun.</string>
+    <string name="gatewayminerror">Pilihan ini mempunyai had transaksi minimum\u0020</string>
+    <string name="amountmultiple">Jumlah yang dimasukkan mestilah dalam gandaan\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">Mengenai kami</string>
+    <string name="viewHis">View History</string>
+    <string name="phonehint">Nombor Telefon Bimbit (08022222222)</string>
+    <string name="emailhint">Emel (you@yahoo.com)</string>
+    <string name="top1">Sila masukkan nombor ID Transaksi untuk membuka perbualan.</string>
+    <string name="top2">SILA AMBIL PERHATIAN: Pasukan perkhidmatan pelanggan kami hanya akan memberi respons kepada Nombor Pengenalan Urusniaga sah</string>
+    <string name="transIdNum">Nombor transaksi ID</string>
+    <string name="hintmessage">Masukkan mesej di sini</string>
+    <string name="open">membuka</string>
+    <string name="liveLabel">Sokongan Pelanggan - Live Chat</string>
+    <string name="tryag">cuba lagi</string>
+    <string name="transExist">Nombor transaksi maaf memasuki tidak wujud</string>
+    <string name="vcountries">negara</string>
+    <string name="vlang">bahasa</string>
+    <string name="vcurrency">mata wang</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="vpay">membayar</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">transaksi yang berjaya</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Sila memilih keutamaan</string>
+    <string name="iAgree">Saya bersetuju dengan\u0020</string>
+    <string name="tandC">Terma Perjanjian\u0020</string>
+    <string name="ofQuiA">daripada QuickAirTime.</string>
+    <string name="enter">Masukkan</string>
+    <string name="copyrightFoot">Copyright © 2012 www.quickairtime.com. Hak cipta adalah terpelihara.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Menukar Negara</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">Rekod Urusniaga</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">Pilih Bahasa</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">nilai-nilai Di</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Pengesahan Pembayaran</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Kecil.:\u0020</string>
+    <string name="network">Operator rangkaian:\u0020</string>
+    <string name="tranid">Nombor transaksi ID:\u0020</string>
+    <string name="contactus">hubungi kami: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">pembelian ini.</string> 
+    <string name="paybyclick">Sila bayar menggunakan mana-mana pilihan pembayaran yang disenaraikan di bawah</string>
+    <string name="date">tarikh:\u0020</string>
+    <string name="time">masa:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">Laporan Transaksi</string>
+    <string name="retry">Cuba lagi</string>
+    <string name="sametran">Transaksi yang sama</string>
+    <string name="newtran">Transaksi baru</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Nombor Telefon Bimbit:\u0020</string>
+    <string name="email">Emel:\u0020</string> 
+    <string name="dateTime">Tarikh / Masa:\u0020</string>
+    <string name="goback">Kembali</string>
+    <string name="reload">Muat Semula</string>
+    <string name="historyItem">Perkara sejarah</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Sila pilih operator rangkaian yang sah.</string>
+    <string name="chooseValidEmail">Sila masukkan alamat e-mel yang sah.</string>
+    <string name="enterMinMax">Sila masukkan jumlah yang sah dalam julat min-max.</string>
+    <string name="validPhoneNetwork">Sila masukkan nombor telefon yang sah untuk rangkaian yang dipilih.</string>
+    <string name="enterValidPhone">Sila masukkan nombor telefon yang sah.</string>
+    <string name="agreeTandC">Anda perlu bersetuju dengan terma dan syarat sebelum prosiding.</string>
+    <string name="chooseCountryLang">Sila pilih negara dan bahasa pilihan.</string>
+    <string name="delAllHistory">Adakah anda pasti anda mahu memadam semua item sejarah?</string>
+    <string name="selectPrefOpt">Sila pilih pilihan pilihan di bawah:</string>
+    <string name="noTrans">Transaksi Tiada telah dijalankan pada peranti.</string>
+    <string name="errorTitle">kesilapan</string>
+    <string name="delTitle">memadam</string>
+    <string name="delItem">Adakah anda pasti anda mahu memadam item ini?</string>
+    <string name="menuTitle">menu</string>
+    <string name="viw">Lihat</string>
+    <string name="selectCountry">Pilih Negara</string>
+    <string name="netOperator">operator rangkaian</string>
+</resources>

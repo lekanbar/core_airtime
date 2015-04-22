@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Голосовать Эфирное время</string>
+    <string name="mainone">Телекоммуникации и биллинга мобильного пополнения</string>
+    <string name="delete">Удаление</string>
+    <string name="deleteall">Удалить все</string>
+    <string name="continua">продолжать</string>
+    <string name="send">Отправить</string>
+    <string name="typecountry">Введите для поиска стране</string>
+    <string name="discountcode">Код скидки</string>
+    <string name="discountcodetitle">Пожалуйста, введите код скидки</string>
+    <string name="discountdetail">* Скидка коды применяются только в награду программы.</string>
+    <string name="discountdetail2">* Пожалуйста, перейдите использованием продолжать Если вы не имеете код скидки.</string>
+    <string name="gatewayminerror">Этот способ оплаты имеет минимальный предел сделки\u0020</string>
+    <string name="amountmultiple">Сумма должна быть введены в упаковке\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">О нас</string>
+    <string name="viewHis">Просмотр истории</string>
+    <string name="phonehint">Номер мобильного телефона (08022222222)</string>
+    <string name="emailhint">E-mail адрес (you@yahoo.com)</string>
+    <string name="top1">Пожалуйста, введите номер ID транзакции, чтобы открыть диалог.</string>
+    <string name="top2">ОБРАТИТЕ ВНИМАНИЕ: Наша команда обслуживания клиента будет реагировать только на действительный идентификационный номер транзакции</string>
+    <string name="livechat">Живой чат</string>
+    <string name="transIdNum">Количество транзакций ID</string>
+    <string name="hintmessage">Введите сообщение здесь</string>
+    <string name="open">открыто</string>
+    <string name="liveLabel">Поддержка - Онлайн-чат</string>
+    <string name="tryag">Попробуйте еще раз</string>
+    <string name="transExist">Извините количество сделка, не существует</string>
+    <string name="vcountries">Страны</string>
+    <string name="vlang">Языки</string>
+    <string name="vcurrency">валюта</string>
+    <string name="welcome">добро пожаловать</string>
+    <string name="vpay">платить</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">Успешное транзакций</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Пожалуйста, выберите предпочтения</string>
+    <string name="iAgree">Я согласен с\u0020</string>
+    <string name="tandC">Круг и соглашения\u0020</string>
+    <string name="ofQuiA">из QuickAirTime.</string>
+    <string name="enter">вводить</string>
+    <string name="copyrightFoot">Copyright ©  www.quickairtime.com. Все права защищены.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Изменить страну</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">История транзакций</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">Выберите язык</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">Значение В</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Оплата подтверждение</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Количество:\u0020</string>
+    <string name="network">оператора сети:\u0020</string>
+    <string name="tranid">Количество транзакций ID:\u0020</string>
+    <string name="contactus">связаться с нами: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">этой покупки.</string> 
+    <string name="paybyclick">Обратите, пожалуйста, используя любой из вариантов оплаты, перечисленные ниже</string>
+    <string name="date">дата:\u0020</string>
+    <string name="time">время:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">транзакций отчет</string>
+    <string name="retry">повторов</string>
+    <string name="sametran">же транзакции</string>
+    <string name="newtran">Новых транзакций</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Номер мобильного телефона:\u0020</string>
+    <string name="email">E-mail адрес:\u0020</string> 
+    <string name="dateTime">Дата / время:\u0020</string>
+    <string name="goback">Назад</string>
+    <string name="reload">Обновить</string>
+    <string name="historyItem">История товара</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Пожалуйста, выберите действительный оператора сотовой сети.</string>
+    <string name="chooseValidEmail">Пожалуйста, введите адрес электронной почты.</string>
+    <string name="enterMinMax">Пожалуйста, введите сумму в мин-макс диапазон.</string>
+    <string name="validPhoneNetwork">Пожалуйста, введите телефонный номер для выбранной сети.</string>
+    <string name="enterValidPhone">Пожалуйста, введите номер телефона.</string>
+    <string name="agreeTandC">Вы должны согласиться с условиями, прежде чем продолжить.</string>
+    <string name="chooseCountryLang">Пожалуйста, выберите страну и язык.</string>
+    <string name="delAllHistory">Вы уверены, что хотите удалить все элементы истории?</string>
+    <string name="selectPrefOpt">Пожалуйста, выберите предпочтительный вариант ниже:</string>
+    <string name="noTrans">Нет Транзакция была проведена на устройство.</string>
+    <string name="errorTitle">ошибка</string>
+    <string name="delTitle">удалять</string>
+    <string name="delItem">Вы действительно хотите удалить этот элемент?</string>
+    <string name="menuTitle">меню</string>
+    <string name="viw">смотреть</string>
+    <string name="selectCountry">Выбрать страну</string>
+    <string name="netOperator">Сеть оператора</string>
+    <string name="ok">ОК</string>
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ystod oriau darlledu Cyflym</string>
+    <string name="mainone">Telegyfathrebiadau Bilio a Ail-lenwi\'r Symudol</string>
+    <string name="delete">Dileu</string>
+    <string name="deleteall">Dileu pob</string>
+    <string name="continua">Parhau</string>
+    <string name="send">Anfon</string>
+    <string name="typecountry">Teipiwch i chwilio am wlad</string>
+    <string name="discountcode">Cod disgownt</string>
+    <string name="discountcodetitle">Rhowch eich cod disgownt</string>
+    <string name="discountdetail">* Codau disgownt yn berthnasol yn unig i raglenni wobr.</string>
+    <string name="discountdetail2">* Ewch yn eich blaen gan ddefnyddio parhau Os nad oes gennych god disgownt.</string>
+    <string name="gatewayminerror">Mae\'r opsiwn hwn yn talu Mae terfyn trafodiad lleiafswm o\u0020</string>
+    <string name="amountmultiple">Rhaid i swm a nodwyd fod mewn lluosrifau o\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">Amdanom Ni</string>
+    <string name="viewHis">gweld Hanes</string>
+    <string name="phonehint">Rhif Ffôn Symudol (08022222222)</string>
+    <string name="emailhint">Cyfeiriad E-bost (you@yahoo.com)</string>
+    <string name="top1">Os gwelwch yn dda nodi\'r rhif adnabod Trafodiad i agor sgwrs.</string>
+    <string name="top2">SYLWER: Bydd ein tîm gwasanaeth i gwsmeriaid yn unig ymateb i Trafodiad Rhif Adnabod dilys</string>
+    <string name="livechat">Live Sgwrs</string>
+    <string name="transIdNum">Rhif Adnabod Trafodiad</string>
+    <string name="hintmessage">Rhowch Neges Yma</string>
+    <string name="open">Ar agor</string>
+    <string name="liveLabel">Cymorth Cwsmeriaid - Live Chat</string>
+    <string name="tryag">Ceisiwch Eto</string>
+    <string name="transExist">Nid yw rhif trosglwyddiad Mae\'n ddrwg gennym gofnodi yn bodoli</string>
+    <string name="vcountries">gwledydd</string>
+    <string name="vlang">Ieithoedd</string>
+    <string name="vcurrency">Arian</string>
+    <string name="welcome">Croeso</string>
+    <string name="vpay">talu</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">trafodiad llwyddiannus</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Dewiswch ddewisiadau</string>
+    <string name="iAgree">Yr wyf yn cytuno ir\u0020</string>
+    <string name="tandC">Telerau ac Cytundeb\u0020</string>
+    <string name="ofQuiA">o QuickAirTime.</string>
+    <string name="enter">Rhowch</string>
+    <string name="copyrightFoot">Hawlfraint ©  www.quickairtime.com. Cedwir pob hawl.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Gwlad Newid</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">Trafodion Hanes</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">dewis Iaith</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">gwerth Yn</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">cadarnhad Talu</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Swm:\u0020</string>
+    <string name="network">Gweithredwr Rhwydwaith:\u0020</string>
+    <string name="tranid">Trafodion Rhif Adnabod:\u0020</string>
+    <string name="contactus">Cysylltwch â ni: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">o hyn prynu.</string> 
+    <string name="paybyclick">Fyddech cystal â thalu gan ddefnyddio unrhyw un o\'r opsiynau talu a restrir isod</string>
+    <string name="date">dyddiad:\u0020</string>
+    <string name="time">amser:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">Adroddiad Trafodiad</string>
+    <string name="retry">Ailgeisio</string>
+    <string name="sametran">Trafodion Yr un</string>
+    <string name="newtran">Trafodion Newydd</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Rhif Ffôn Symudol:\u0020</string>
+    <string name="email">Cyfeiriad E-bost:\u0020</string> 
+    <string name="dateTime">dyddiad/amser:\u0020</string>
+    <string name="goback">Yn ôl</string>
+    <string name="reload">Reload</string>
+    <string name="historyItem">eitem hanes</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Dewiswch gweithredwr rhwydwaith dilys.</string>
+    <string name="chooseValidEmail">Rhowch gyfeiriad e-bost dilys.</string>
+    <string name="enterMinMax">Rhowch swm dilys o fewn yr ystod min-max.</string>
+    <string name="validPhoneNetwork">Rhowch rhif ffôn dilys ar gyfer y rhwydwaith a ddewiswyd.</string>
+    <string name="enterValidPhone">Rhowch rhif ffôn dilys.</string>
+    <string name="agreeTandC">Mae\'n rhaid i chi gytuno ar y telerau a\'r amodau cyn symud ymlaen.</string>
+    <string name="chooseCountryLang">Dewiswch wlad a dewis iaith.</string>
+    <string name="delAllHistory">A ydych yn sicr eich bod am ddileu\'r holl eitemau hanes?</string>
+    <string name="selectPrefOpt">Dewiswch opsiwn dewisol isod:</string>
+    <string name="noTrans">Dim Trafodiad wedi cael ei gynnal ar y ddyfais.</string>
+    <string name="errorTitle">gwall</string>
+    <string name="delTitle">Dileu</string>
+    <string name="delItem">A ydych yn sicr eich bod am ddileu\'r eitem hon?</string>
+    <string name="menuTitle">Dewislen</string>
+    <string name="viw">gweld</string>
+    <string name="selectCountry">dewis Gwlad</string>
+    <string name="netOperator">Gweithredwr rhwydwaith</string>
+</resources>

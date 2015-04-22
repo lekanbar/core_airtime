@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hızlı Airtime</string>
+    <string name="mainone">Telekom Fatura ve Mobil Şarj</string>
+    <string name="delete">Sil</string>
+    <string name="deleteall">Tümünü sil</string>
+    <string name="continua">devam etmek</string>
+    <string name="send">Gönder</string>
+    <string name="typecountry">Ülke aramak için yazın</string>
+    <string name="discountcode">İndirim Kodu</string>
+    <string name="discountcodetitle">Indirim kodu girin</string>
+    <string name="discountdetail">* İndirim kodları ödül programları yalnızca geçerlidir.</string>
+    <string name="discountdetail2">* Bir indirim kodunuz yoksa devam kullanarak devam edin.</string>
+    <string name="gatewayminerror">Bu ödeme seçeneği minimum işlem limiti vardır\u0020</string>
+    <string name="amountmultiple">Girilen Miktarı katları olmalıdır\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">Hakkımızda</string>
+    <string name="viewHis">Geçmişini Görüntüle</string>
+    <string name="phonehint">Cep Telefonu Numarası (08022222222)</string>
+    <string name="emailhint">E-posta Adresi (you@yahoo.com)</string>
+    <string name="top1">Bir ileti dizisini açın İşlem kimlik numaranızı girin.</string>
+    <string name="top2">LÜTFEN DİKKAT: Müşteri hizmetleri ekibi, sadece geçerli bir işlem Kimlik Numarası cevap verecek</string>
+    <string name="livechat">canlı sohbet</string>
+    <string name="transIdNum">İşlem Kimlik Numarası</string>
+    <string name="hintmessage">İşte Mesajınızı girin</string>
+    <string name="open">açık</string>
+    <string name="liveLabel">Müşteri Desteği - Canlı Sohbet</string>
+    <string name="tryag">tekrar deneyin</string>
+    <string name="transExist">Girilen Üzgünüz işlem numarası yok</string>
+    <string name="vcountries">Ülkeler</string>
+    <string name="vlang">Diller</string>
+    <string name="vcurrency">para</string>
+    <string name="welcome">karşılama</string>
+    <string name="vpay">ödeme</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">İşlem Başarılı</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Lütfen tercihlerinizi</string>
+    <string name="iAgree">Ben kabul ediyorum\u0020</string>
+    <string name="tandC">Şartlar ve Sözleşme\u0020</string>
+    <string name="ofQuiA">arasında QuickAirTime.</string>
+    <string name="enter">girmek</string>
+    <string name="copyrightFoot">Copyright © 2012 www.quickairtime.com. Tüm hakları saklıdır.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Ülke Değiştir</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">İşlem Geçmişi</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">Dil seçin</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">değer</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Ödeme onayı</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Tutar:\u0020</string>
+    <string name="network">Ağ Operatörü:\u0020</string>
+    <string name="tranid">İşlem Kimlik Numarası:\u0020</string>
+    <string name="contactus">İletişim: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">Bu satın alma.</string> 
+    <string name="paybyclick">Aşağıda yer alan ödeme seçeneklerinden birini kullanarak ediniz</string>
+    <string name="date">tarih:\u0020</string>
+    <string name="time">zaman:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">İşlem Raporu</string>
+    <string name="retry">Tekrar yapmak</string>
+    <string name="sametran">Aynı İşlem</string>
+    <string name="newtran">Yeni İşlem</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Cep Telefonu Numarası:\u0020</string>
+    <string name="email">E-posta Adresi:\u0020</string> 
+    <string name="dateTime">Tarih / Saat:\u0020</string>
+    <string name="goback">Tillbaka</string>
+    <string name="reload">Yeniden</string>
+    <string name="historyItem">Tarih Öğe</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Geçerli bir ağ operatörü seçiniz.</string>
+    <string name="chooseValidEmail">Geçerli bir e-posta adresi girin.</string>
+    <string name="enterMinMax">Min-max aralığında geçerli bir miktarı giriniz.</string>
+    <string name="validPhoneNetwork">Seçilen ağ için geçerli bir telefon numarası giriniz.</string>
+    <string name="enterValidPhone">Geçerli bir telefon numarası giriniz.</string>
+    <string name="agreeTandC">Devam etmeden önce şart ve koşulları kabul etmek zorunda.</string>
+    <string name="chooseCountryLang">Bir ülke ve tercih ettiğiniz dili seçin.</string>
+    <string name="delAllHistory">Eğer tüm geçmişi öğeleri silmek istediğinizden emin misiniz?</string>
+    <string name="selectPrefOpt">Aşağıda tercih ettiğiniz seçeneği Lütfen:</string>
+    <string name="noTrans">Hiçbir İşlem cihazda yapılmıştır.</string>
+    <string name="errorTitle">hata</string>
+    <string name="delTitle">silmek</string>
+    <string name="delItem">Bu öğeyi silmek istediğinizden emin misiniz?</string>
+    <string name="menuTitle">menü</string>
+    <string name="viw">görmek</string>
+    <string name="selectCountry">Ülke Seçin</string>
+    <string name="netOperator">Ağ Operatörü</string>
+    <string name="ok">Tamam</string>
+</resources>

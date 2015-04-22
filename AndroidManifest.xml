@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.core.airtime"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="18" />
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+
+    <application android:icon="@drawable/launch_icon" android:label="@string/app_name" android:allowBackup="true">
+		<receiver
+		       android:name=".BootCompleted"
+		       android:enabled="true"
+		       android:exported="false">
+		       <intent-filter>
+		          <action android:name="android.intent.action.BOOT_COMPLETED" />
+		       </intent-filter>
+		</receiver>
+		
+		<service android:name=".StartServiceOnBoot"></service>
+		
+        <activity android:name=".AfterSplash"
+            	  android:label="@string/welcome"
+            	  android:configChanges="orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.DEFAULT"></category>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".SplashScreen"
+                  android:configChanges="orientation"
+                  android:theme="@style/Theme.Transparent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".CoreAirTimeActivity"
+            	  android:configChanges="keyboardHidden|orientation"
+				  android:label="@string/app_name">
+		</activity>
+		
+        <activity android:name=".InAppBrowser"
+            	  android:configChanges="orientation"
+				  android:label="@string/empty">
+		</activity>
+		
+        <activity android:name=".TutorialMain"
+            	  android:configChanges="orientation"
+				  android:theme="@style/Theme.Transparent">
+		</activity>
+
+		<activity android:name=".Pay"
+				  android:label="@string/vpay"
+				  android:configChanges="orientation">
+		</activity>
+		
+		<activity android:name=".PayInfo"
+				  android:label="@string/vpay"
+				  android:configChanges="orientation">
+		</activity>
+		
+		<activity android:name=".CoreMerchant"
+				  android:label="@string/vpay"
+				  android:configChanges="orientation">
+		</activity>
+		
+		<activity android:name=".DiscountCode"
+				  android:configChanges="orientation">
+		</activity>
+		
+		<activity android:name=".Terms"
+				  android:label="@string/tandC"
+				  android:configChanges="orientation"
+				  android:theme="@android:style/Theme.Dialog">
+		</activity>
+		
+		<activity android:name=".About"
+				  android:label="@string/about"
+				  android:configChanges="orientation"
+				  android:theme="@android:style/Theme.Dialog">
+		</activity>
+		
+		<activity android:name=".History"
+				  android:label="@string/tranHis"
+				  android:configChanges="orientation">
+		</activity>
+		
+		<activity android:name=".HistoryItem"
+				  android:label="@string/historyItem"
+				  android:configChanges="orientation"
+				  android:theme="@android:style/Theme.Dialog">
+		</activity>
+		
+		<activity android:name=".ChooseCountry"
+				  android:label="@string/chooseCountry"
+				  android:configChanges="orientation"
+				  android:theme="@android:style/Theme.Dialog">
+		</activity>
+		
+		<activity android:name=".ChangeEmail"
+				  android:label="@string/cemail"
+				  android:configChanges="orientation"
+				  android:theme="@android:style/Theme.Dialog">
+		</activity>
+		
+		<activity android:name=".TransactionReport"
+				  android:label="@string/tranReport"
+				  android:configChanges="orientation">
+		</activity>
+		
+		<activity android:name=".ChooseLocalUSD"
+		          android:label="@string/vcurrency"
+				  android:configChanges="orientation"
+				  android:theme="@android:style/Theme.Dialog">
+		</activity>
+		
+		<activity android:name=".ChooseLanguage"
+				  android:label="@string/chooseLang"
+				  android:configChanges="orientation"
+				  android:theme="@android:style/Theme.Dialog">
+		</activity>
+		
+		<activity android:name=".LiveChat"
+				  android:label="@string/liveLabel"
+				  android:configChanges="orientation">
+		</activity>
+		
+		<activity android:name=".Settings"
+				  android:label="@string/settings"
+				  android:configChanges="orientation">
+		</activity>
+    </application>
+</manifest>

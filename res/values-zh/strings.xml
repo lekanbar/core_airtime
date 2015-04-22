@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">个快速通话</string>
+    <string name="mainone">电信计费和移动充值</string>
+    <string name="delete">删除</string>
+    <string name="deleteall">删除</string>
+    <string name="continua">继续</string>
+    <string name="send">发送</string>
+    <string name="typecountry">键入要搜索的国家</string>
+    <string name="discountcode">折扣代码</string>
+    <string name="discountcodetitle">请输入您的折扣代码</string>
+    <string name="discountdetail">* 折扣代码只适用于奖励计划。</string>
+    <string name="discountdetail2">* 请继续使用继续，如果你没有一个折扣代码。</string>
+    <string name="gatewayminerror">此付款方式有一个最低交易限额\u0020</string>
+    <string name="amountmultiple">量输入必须是的倍数\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">关于我们</string>
+    <string name="viewHis">查看歷史記錄</string>
+    <string name="phonehint">电话号码 (08022222222)</string>
+    <string name="emailhint">电子邮件 (you@yahoo.com)</string>
+    <string name="top1">请输入交易ID号，打开对话。</string>
+    <string name="top2">请注意：我们的客户服务团队将只响应一个有效的交易识别号码</string>
+    <string name="livechat">在线聊天</string>
+    <string name="topup2">补足</string>
+    <string name="transIdNum">交易编号</string>
+    <string name="hintmessage">输入您的讯息</string>
+    <string name="open">打开</string>
+    <string name="liveLabel">客户支援 - 即时交谈</string>
+    <string name="tryag">再试一次</string>
+    <string name="transExist">进入对不起交易数量不存在</string>
+    <string name="vcountries">国家</string>
+    <string name="vlang">语言</string>
+    <string name="vcurrency">货币</string>
+    <string name="welcome">欢迎</string>
+    <string name="vpay">付</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">交易成功</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">，请选择喜好</string>
+    <string name="iAgree">我同意</string>
+    <string name="tandC">条款及协议</string>
+    <string name="ofQuiA">的 QuickAirTime.</string>
+    <string name="enter">進入</string>
+    <string name="copyrightFoot">版权所有©年 www.quickairtime.com。版权所有</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">选择国家</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">交易记录</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">選擇語言</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">值在</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">付款确认</string>
+    <string name="topup">热门的:\u0020</string>
+    <string name="amount">量:\u0020</string>
+    <string name="network">网络运营商:\u0020</string>
+    <string name="tranid">交易识别号码:\u0020</string>
+    <string name="contactus">聯繫我們: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">此次收購。</string> 
+    <string name="paybyclick">请你用下面列出的任何付款选项</string>
+    <string name="date">日期:\u0020</string>
+    <string name="time">時間:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">交易报告</string>
+    <string name="retry">重试</string>
+    <string name="sametran">相同的交易</string>
+    <string name="newtran">新交易</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">移动电话号码:\u0020</string>
+    <string name="email">个电邮地址:\u0020</string> 
+    <string name="dateTime">日期/时间:\u0020</string>
+    <string name="goback">回去</string>
+    <string name="reload">刷新</string>
+    <string name="historyItem">历史项目</string>
+    
+    <string name="chooseValidNetwork">请选择一个有效的网络运营商。</string>
+<string name="chooseValidEmail">请输入一个有效的电子邮件地址。</string>
+<string name="enterMinMax">分钟最大范围内，请输入一个有效的金额。</string>
+<string name="validPhoneNetwork">请输入有效的电话号码，对选定的网络。</string>
+<string name="enterValidPhone">请输入一个有效的电话号码。</string>
+<string name="agreeTandC">您同意之前进行。</string>
+<string name="chooseCountryLang">请选择一个国家和首选语言</string>
+<string name="delAllHistory">你确定要删除所有历史记录项？</string>
+<string name="selectPrefOpt">请选择首选选项如下：</string>
+<string name="noTrans">无交易已进行了设备</string>
+<string name="errorTitle">错误</string>
+<string name="delTitle">删除</string>
+<string name="delItem">你确定要删除这个项目吗？</string>
+<string name="menuTitle">菜单</string>
+<string name="viw">查看</string>
+<string name="selectCountry">选择国家</string>
+<string name="netOperator">网络运营商</string>
+<string name="ok">确定</string>
+</resources>

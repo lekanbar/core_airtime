@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+	android:id="@+id/widget32"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="#ffffff"
+	android:padding="5dp"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<ScrollView android:id="@+id/scrollView2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fadeScrollbars="true"
+                      android:scrollbarFadeDuration="1000">
+<LinearLayout
+	android:id="@+id/widg6789te543"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical"
+	android:gravity="center_horizontal"
+	>
+<LinearLayout
+	android:id="@+id/laytop"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical" android:background="#00CC00">
+<TextView
+	android:id="@+id/widget43"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/transview"
+	android:textSize="16sp"
+	android:layout_gravity="center_horizontal" android:textColor="#ffffff" />
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget44"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:layout_gravity="left" 
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/giyili787gk"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/network"
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblNetwork"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget50"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:layout_gravity="left"  
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/kjhgyig"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/phonenum"
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblPhone"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget5haj0"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:layout_gravity="left" 
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/giyiligk"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/amount"
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblAmount"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget5haj0sd"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/giyili787gkjdks"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/email"
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblEmail"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget52"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/widget53"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/tranid"
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblTransactionID"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widget56"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/widget53dsiu"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/dateTime"
+	android:textColor="#000000" />
+<TextView
+	android:id="@+id/lblDateTime"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	android:textColor="#0000FF" />
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/widgdsdswewdiop"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/lbewewe3231ere"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/paymentgate"
+	android:textColor="#000000"
+	/>
+<TextView
+	android:id="@+id/lblPaymentGateway"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"  android:textColor="#0000FF"
+	/>
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/laypaystatus"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/lbewewerere"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/payment"
+	android:textColor="#000000"
+	/>
+<TextView
+	android:id="@+id/lblPaymentStatus"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty" 
+	/>
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/laytopupstatus"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/dsfdfjkdjfkd"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/topup4"
+	android:textColor="#000000"
+	/>
+<TextView
+	android:id="@+id/lblTopupStatus"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"
+	/>
+</LinearLayout>
+<LinearLayout
+	android:id="@+id/laytransreport"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:visibility="gone"
+	android:layout_gravity="left"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/dsfd435fkd"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/transreport"
+	android:textColor="#000000"/>
+<TextView
+	android:id="@+id/lblTransReport"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/empty"/>
+</LinearLayout>
+<RelativeLayout
+	android:id="@+id/widgefdfer34kdsdiop"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="20dp"
+	android:orientation="horizontal">
+<Button
+	android:id="@+id/cmdReload"
+	android:layout_width="80dp"
+	android:layout_height="50dp"
+	android:layout_marginRight="5dp"
+	android:text="@string/reload"
+	android:textColor="#ffffff"
+	android:background="#00CC00"
+	android:layout_alignParentLeft="true"
+	/>
+<Button
+	android:id="@+id/cmdDelete"
+	android:layout_width="80dp"
+	android:layout_height="50dp"
+	android:text="@string/delete" 
+	android:textColor="#ffffff"
+	android:layout_marginRight="5dp"
+	android:background="#FF0000"
+	android:layout_centerInParent="true"	
+	/>
+<Button
+	android:id="@+id/cmdBack"
+	android:layout_width="80dp"
+	android:layout_height="50dp" 
+	android:text="@string/goback"
+	android:textColor="#ffffff"
+	android:background="#0000FF"
+	android:layout_alignParentRight="true"
+	/>
+</RelativeLayout>
+</LinearLayout>
+</ScrollView>
+</TableLayout>

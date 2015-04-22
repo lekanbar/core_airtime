@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snelle Aitrtime</string>
+    <string name="mainone">Telecom Billing en Mobile Recharge</string>
+    <string name="delete">Verwijderen</string>
+    <string name="deleteall">Verwijder alle</string>
+    <string name="continua">voortzetten</string>
+    <string name="send">Verzenden</string>
+    <string name="typecountry">Typ om te zoeken naar land</string>
+    <string name="discountcode">Kortingscode</string>
+    <string name="discountcodetitle">Vul uw korting code</string>
+    <string name="discountdetail">* Korting codes zijn alleen van toepassing op beloningsprogramma\'s.</string>
+    <string name="discountdetail2">* Ga door met behulp Als u niet beschikt over een kortingscode voort te zetten.</string>
+    <string name="gatewayminerror">Deze betaling optie heeft een minimale transactie limiet van\u0020</string>
+    <string name="amountmultiple">Ingevoerde bedrag moet in een veelvoud van\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">Om oss</string>
+    <string name="viewHis">Geschiedenis weergeven</string>
+    <string name="phonehint">Telefoonnummer (08022222222)</string>
+    <string name="emailhint">E-mailadres (you@yahoo.com)</string>
+    <string name="top1">Vul de Transactie ID-nummer om een ​​gesprek te openen.</string>
+    <string name="top2">LET OP: Onze customer service team zal alleen reageren op een geldige Transactie Identificatie Nummer</string>
+    <string name="transIdNum">Transactie ID-nummer</string>
+    <string name="hintmessage">Hier Voer bericht</string>
+    <string name="tryag">Probeer het opnieuw</string>
+    <string name="transExist">Sorry ingevoerd transactienummer bestaat niet</string>
+    <string name="vcountries">landen</string>
+    <string name="vlang">Talen</string>
+    <string name="vcurrency">valuta</string>
+    <string name="welcome">welkom</string>
+    <string name="vpay">betalen</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">transactie succesvol</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Maak een keuze voorkeuren</string>
+    <string name="iAgree">Ik ga akkoord met de\u0020</string>
+    <string name="tandC">Algemene voorwaarden\u0020</string>
+    <string name="ofQuiA">van QuickAirTime.</string>
+    <string name="enter">Invoeren</string>
+    <string name="copyrightFoot">Copyright © 2012 www.quickairtime.com. Alle rechten voorbehouden.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Land Wijzigen</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">Transactie Geschiedenis</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">Kies Taal</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">waarde In</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Betaling bevestigen</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Hoeveelheid bij aanvraag:\u0020</string>
+    <string name="network">netwerk:\u0020</string>
+    <string name="tranid">Transactie ID-nummer:\u0020</string>
+    <string name="contactus">Neem contact met ons: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">van deze aankoop.</string> 
+    <string name="paybyclick">Gelieve te betalen met een van de betalingsmogelijkheden onderstaande</string>
+    <string name="date">Datum:\u0020</string>
+    <string name="time">Tijd:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">Transactie Rapport</string>
+    <string name="retry">Probeer opnieuw</string>
+    <string name="sametran">Dezelfde Transactie</string>
+    <string name="newtran">Nieuwe Transactie</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Mobiel telefoonnummer:\u0020</string>
+    <string name="email">E-mailadres:\u0020</string> 
+    <string name="dateTime">Datum / Tijd:\u0020</string>
+    <string name="goback">Ga terug</string>
+    <string name="reload">Opnieuw laden</string>
+    <string name="historyItem">Geschiedenis Item</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Kies een geldige netwerkoperator.</string>
+    <string name="chooseValidEmail">Vul een geldig e-mailadres.</string>
+    <string name="enterMinMax">Vul een geldig bedrag binnen de min-max bereik.</string>
+    <string name="validPhoneNetwork">Vul een geldig telefoonnummer voor het gekozen netwerk.</string>
+    <string name="enterValidPhone">Vul een geldig telefoonnummer in.</string>
+    <string name="agreeTandC">U moet akkoord gaan met de voorwaarden voordat u verder gaat.</string>
+    <string name="chooseCountryLang">Kies een land en voorkeurstaal.</string>
+    <string name="delAllHistory">Weet je zeker dat je de hele geschiedenis items wilt verwijderen?</string>
+    <string name="selectPrefOpt">Selecteer voorkeur hieronder:</string>
+    <string name="noTrans">Geen transactie is uitgevoerd op het apparaat.</string>
+    <string name="errorTitle">fout</string>
+    <string name="delTitle">Verwijder</string>
+    <string name="delItem">Weet je zeker dat je dit item wilt verwijderen?</string>
+    <string name="menuTitle">menu</string>
+    <string name="viw">zien</string>
+    <string name="selectCountry">Selecteer land</string>
+</resources>

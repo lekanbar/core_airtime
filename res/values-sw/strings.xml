@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quick muda wa maongezi</string>
+    <string name="mainone">Telekom Billing na weka Simu</string>
+    <string name="delete">Kufuta</string>
+    <string name="deleteall">Futa zote</string>
+    <string name="continua">kuendelea</string>
+    <string name="send">Tuma</string>
+    <string name="typecountry">Jaribu kutafuta kwa ajili ya nchi</string>
+    <string name="discountcodetitle">Tafadhali kuingia discount yako code</string>
+    <string name="discountdetail">* Discount codes tu zinazotumika kwa mipango ya malipo.</string>
+    <string name="discountdetail2">* Tafadhali kuendelea kutumia kuendelea Kama huna code discount.</string>
+    <string name="gatewayminerror">Fursa hii ya malipo ya kiwango cha chini manunuzi ya kikomo ya\u0020</string>
+    <string name="amountmultiple">Kiasi aliingia lazima katika mafungu ya\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">Kuhusu sisi</string>
+    <string name="viewHis">View Historia</string>
+    <string name="phonehint">Idadi ya Mkono Simu (08022222222)</string>
+    <string name="emailhint">Barua pepe (you@yahoo.com)</string>
+    <string name="top1">Tafadhali kuingia Transaction ID idadi ya kufungua mazungumzo.</string>
+    <string name="top2">TAFADHALI KUMBUKA: wateja wetu huduma timu tu kujibu Idadi halali Transaction Identification</string>
+    <string name="livechat">kuishi kuzungumza</string>
+    <string name="transIdNum">Transaction ID Idadi</string>
+    <string name="hintmessage">Ujumbe kuingia Hapa</string>
+    <string name="open">kufungua</string>
+    <string name="liveLabel">Wateja Support - Live Chat</string>
+    <string name="tryag">jaribu tena</string>
+    <string name="transExist">Sorry shughuli idadi aliingia haipo</string>
+    <string name="vcountries">nchi</string>
+    <string name="vlang">lugha</string>
+    <string name="vcurrency">sarafu</string>
+    <string name="welcome">Karibu</string>
+    <string name="vpay">kulipa</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">shughuli mafanikio</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Tafadhali kuchagua mapendekezo</string>
+    <string name="iAgree">Ninakubali\u0020</string>
+    <string name="tandC">Masharti na Mkataba\u0020</string>
+    <string name="ofQuiA">ya QuickAirTime.</string>
+    <string name="enter">kuingia</string>
+    <string name="copyrightFoot">Copyright © 2012 www.quickairtime.com. Haki zote zimehifadhiwa.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Mabadiliko ya Nchi</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">Transaction Historia</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">kuchagua lugha</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">Katika thamani</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Malipo ya uthibitisho</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Kiasi:\u0020</string>
+    <string name="network">Mtandao wa Opereta:\u0020</string>
+    <string name="tranid">Transaction ID Idadi:\u0020</string>
+    <string name="contactus">kuwasiliana nasi: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">wa kununua hii.</string> 
+    <string name="paybyclick">Tafadhali kulipa kutumia yoyote ya chaguzi za malipo ya hapa chini</string>
+    <string name="date">tarehe:\u0020</string>
+    <string name="time">wakati:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">Ripoti ya shughuli</string>
+    <string name="retry">Jaribu tena</string>
+    <string name="sametran">Shughuli Tiyo</string>
+    <string name="newtran">Mpya Transaction</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Idadi ya Mkono Simu:\u0020</string>
+    <string name="email">Anwani ya barua pepe:\u0020</string> 
+    <string name="dateTime">Tarehe / Saa:\u0020</string>
+    <string name="goback">Mgongo</string>
+    <string name="reload">Reload</string>
+    <string name="historyItem">historia Item</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Tafadhali kuchagua halali mtandao wa operator.</string>
+    <string name="chooseValidEmail">Tafadhali ingiza anwani ya barua pepe halali.</string>
+    <string name="enterMinMax">Tafadhali ingiza kiasi halali ndani mbalimbali min-max.</string>
+    <string name="validPhoneNetwork">Tafadhali kuingia halali namba ya simu kwa ajili ya mtandao wa kuchaguliwa.</string>
+    <string name="enterValidPhone">Tafadhali kuingia halali namba ya simu.</string>
+    <string name="agreeTandC">Unaweza kuwa na kukubaliana na sheria na masharti kabla ya kuendelea.</string>
+    <string name="chooseCountryLang">Tafadhali kuchagua nchi na lugha preferred.</string>
+    <string name="delAllHistory">Una uhakika unataka kufuta vitu vyote historia?</string>
+    <string name="selectPrefOpt">Tafadhali chagua chaguo preferred chini:</string>
+    <string name="noTrans">Transaction hakuna imekuwa uliofanywa juu ya kifaa.</string>
+    <string name="errorTitle">Hitilafu</string>
+    <string name="delTitle">kufuta</string>
+    <string name="delItem">Una uhakika unataka kufuta bidhaa hii?</string>
+    <string name="menuTitle">menu</string>
+    <string name="viw">View</string>
+    <string name="selectCountry">chagua Nchi</string>
+    <string name="netOperator">mtandao wa Opereta</string>
+</resources>

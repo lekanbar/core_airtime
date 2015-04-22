@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اعتبار مکالمه سریع</string>
+    <string name="mainone">حسابداری ارتباطات و شارژ موبایل</string>
+    <string name="delete">حذف</string>
+    <string name="deleteall">حذف همه</string>
+    <string name="discountdetail">* کدهای تخفیف فقط قابل اعمال به برنامه های پاداش است.</string>
+    <string name="discountdetail2">* لطفا ادامه با استفاده از ادامه اگر شما یک کد تخفیف ندارد.</string>
+    <string name="continua">ادامه</string>
+    <string name="send">ارسال</string>
+    <string name="typecountry">نوع به جستجو برای کشور</string>
+    <string name="discountcode">کد تخفیف</string>
+    <string name="discountcodetitle">لطفا کد تخفیف خود را وارد کنید</string>
+    <string name="gatewayminerror">این گزینه پرداخت، تا حد معامله حداقل\u0020</string>
+    <string name="amountmultiple">مقدار وارد شده باید در تقسیم عددی بر مضرب\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">درباره ما</string>
+    <string name="viewHis">نمایش تاریخچه</string>
+    <string name="phonehint">شماره تلفن (08022222222)</string>
+    <string name="emailhint">پست الکترونیک (you@yahoo.com)</string>
+    <string name="top1">لطفا وارد معامله شماره ID به باز کردن یک مکالمه است.</string>
+    <string name="top2">لطفا توجه کنید: تیم خدمات مشتری ما تنها به یک شماره شناسایی معامله معتبر</string>
+    <string name="livechat">گفتگوی زنده</string>
+    <string name="topup2">بال</string>
+    <string name="transIdNum">معامله شماره شناسنامه</string>
+    <string name="hintmessage">پیامتان را در این بخش وارد</string>
+    <string name="open"> باز</string>
+    <string name="liveLabel">مشتری - گفتگوی زنده</string>
+    <string name="tryag">دوباره سعی کنید</string>
+    <string name="transExist">با عرض پوزش تعداد معامله وارد شده وجود ندارد</string>
+    <string name="vcountries">کشورهای</string>
+    <string name="vlang">زبان</string>
+    <string name="vcurrency">پول</string>
+    <string name="welcome">خوش آمد</string>
+    <string name="vpay">پرداخت</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">معامله موفقیت آمیز</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">لطفا گزینه Preferences را انتخاب</string>
+    <string name="iAgree">من به\u0020</string>
+    <string name="tandC">و شرایط\u0020</string>
+    <string name="ofQuiA">از QuickAirTime.</string>
+    <string name="enter">را وارد کنید</string>
+    <string name="copyrightFoot"> کپی رایت © 2012 www.quickairtime.com. کلیه حقوق این\u0020</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">کشور</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">تاریخچه معامله</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang"> انتخاب زبان</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">ارزش در</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">تایید پرداخت</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">مقدار:\u0020</string>
+    <string name="network"> شبکه:\u0020</string>
+    <string name="tranid">معامله:\u0020</string>
+    <string name="contactus">تماس با ما: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">از این خرید</string> 
+    <string name="paybyclick">پرداخت با استفاده از هر یک از گزینه های پرداخت زیر لیست شده اند</string>
+    <string name="date">تاریخ:\u0020</string>
+    <string name="time">زمان:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">گزارش تراکنش</string>
+    <string name="retry">دوباره سعی کنید</string>
+    <string name="sametran"> معامله همان</string>
+    <string name="newtran">معامله جدید</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">شماره تلفن:\u0020</string>
+    <string name="email">ایمیل:\u0020</string> 
+    <string name="dateTime"> تاریخ / زمان:\u0020</string>
+    <string name="goback">بازگشت</string>
+    <string name="reload">بازنگری این صفحه</string>
+    <string name="historyItem"> مورد تاریخچه\u0020</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">لطفا یک اپراتور شبکه معتبر را انتخاب کنید</string>
+    <string name="chooseValidEmail">لطفا یک آدرس ایمیل معتبر وارد کنید</string>
+    <string name="enterMinMax"> لطفا یک مقدار معتبر در محدوده حداقل و حداکثر</string>
+    <string name="validPhoneNetwork">لطفا یک شماره تلفن معتبر را وارد کنید برای شبکه انتخاب شده</string>
+    <string name="enterValidPhone">لطفا شماره تلفن معتبر وارد کنید</string>
+    <string name="agreeTandC">شما باید قبل از اقدام</string>
+    <string name="chooseCountryLang">لطفا کشور و زبان مورد نظر را انتخاب کنید</string>
+    <string name="delAllHistory">آیا شما مطمئن هستید که می خواهید پاک کردن همه آیتم های تاریخ؟</string>
+    <string name="selectPrefOpt">لطفا گزینه مورد نظر زیر را انتخاب کنید:</string>
+    <string name="noTrans">هیچ معامله شده است بر روی دستگاه انجام شده است.</string>
+    <string name="errorTitle">خطا</string>
+    <string name="delTitle">حذف</string>
+    <string name="delItem"> آیا شما مطمئن هستید که می خواهید این آیتم را حذف کنید</string>
+    <string name="menuTitle">منو</string>
+    <string name="viw">مشاهده</string>
+    <string name="selectCountry">کشور را انتخاب کنید</string>
+    <string name="netOperator">اپراتور شبکه</string>
+</resources>

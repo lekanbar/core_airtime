@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rapid Airtime</string>
+    <string name="mainone">Telecomunicaţii facturare şi reîncărcaţi Mobile</string>
+    <string name="delete">Stergere</string>
+    <string name="deleteall">Ştergeţi toate</string>
+    <string name="continua">continua</string>
+    <string name="send">Trimite</string>
+    <string name="typecountry">Tastaţi pentru a căuta în ţară</string>
+    <string name="discountcode">reducere Codul</string>
+    <string name="discountcodetitle">Va rugam sa introduceti codul de reducere</string>
+    <string name="discountdetail">* Coduri de reducere se aplică numai pentru programele de recompensare.</string>
+    <string name="discountdetail2">* Vă rugăm să mergeţi în continuare folosind Dacă nu aveţi un cod de reducere.</string>
+    <string name="gatewayminerror">Această opţiune de plată are o limita minima de tranzactionare de\u0020</string>
+    <string name="amountmultiple">Suma înscrisă trebuie să fie în multipli de\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">Despre noi</string>
+    <string name="viewHis">Vizualizare istoric</string>
+    <string name="phonehint">Număr de telefon mobil (08022222222)</string>
+    <string name="emailhint">Adresa e-mail (you@yahoo.com)</string>
+    <string name="top1">Vă rugăm să introduceţi ID-ul numărul de tranzacţie pentru a deschide o conversaţie.</string>
+    <string name="top2">NOTA: Echipa noastră de servicii pentru clienţi va răspunde doar la un număr valid de identificare tranzacţie</string>
+    <string name="transIdNum">numărul tranzacţiei</string>
+    <string name="hintmessage">Introduceţi mesajul aici</string>
+    <string name="open">deschide</string>
+    <string name="tryag">Încercaţi din nou</string>
+    <string name="transExist">Ne pare rau introdus numărul de tranzacţie nu există</string>
+    <string name="vcountries">ţări</string>
+    <string name="vlang">limbi</string>
+    <string name="vcurrency">valută</string>
+    <string name="welcome">bun venit</string>
+    <string name="vpay">plăti</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">tranzacţie de succes</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Vă rugăm să alegeţi preferinţele</string>
+    <string name="iAgree">Sunt de acord cu\u0020</string>
+    <string name="tandC">Termeni şi Acordul de\u0020</string>
+    <string name="ofQuiA">de QuickAirTime.</string>
+    <string name="enter">introduce</string>
+    <string name="copyrightFoot">Copyright © 2012 www.quickairtime.com. Toate drepturile sînt rezervate.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Modificarea Ţara</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">Tranzacţie de Istorie</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">alegeţi limba</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">valoarea în</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Confirmarea de plată</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Suma:\u0020</string>
+    <string name="network">Operatorul de reţea:\u0020</string>
+    <string name="tranid">numărul tranzacţiei:\u0020</string>
+    <string name="contactus">Contactaţi-ne: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">de această achiziţie.</string> 
+    <string name="paybyclick">Vă rugăm să plătească folosind oricare dintre opţiunile de plată de mai jos</string>
+    <string name="date">data:\u0020</string>
+    <string name="time">timp:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">Raportul de tranzacţii</string>
+    <string name="retry">Reîncercare</string>
+    <string name="sametran">Aceeaşi tranzacţie</string>
+    <string name="newtran">Nouă tranzacţie</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Număr de telefon mobil:\u0020</string>
+    <string name="email">Adresa e-mail:\u0020</string> 
+    <string name="dateTime">data/timp:\u0020</string>
+    <string name="goback">Back-up-ul</string>
+    <string name="reload">Reîncărcarea</string>
+    <string name="historyItem">istoria Postul</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Vă rugăm să alegeţi un operator de reţea validă.</string>
+    <string name="chooseValidEmail">Vă rugăm să introduceţi o adresă de email validă.</string>
+    <string name="enterMinMax">Vă rugăm să introduceţi o sumă valabilă în intervalul min-max.</string>
+    <string name="validPhoneNetwork">Vă rugăm să introduceţi un număr de telefon valabil pentru reţeaua de ales.</string>
+    <string name="enterValidPhone">Vă rugăm să introduceţi un număr de telefon valabil.</string>
+    <string name="agreeTandC">Trebuie să fie de acord cu termenii şi condiţiile înainte de a începe.</string>
+    <string name="chooseCountryLang">Vă rugăm să alegeţi o ţară şi limba preferată.</string>
+    <string name="delAllHistory">Sunteţi sigur că doriţi să ştergeţi toate elementele de istorie?</string>
+    <string name="selectPrefOpt">Vă rugăm să selectaţi opţiunea preferată de mai jos:</string>
+    <string name="noTrans">Nicio tranzacţie nu a fost efectuat pe dispozitiv.</string>
+    <string name="errorTitle">eroare</string>
+    <string name="delTitle">şterge</string>
+    <string name="delItem">Sunteţi sigur că doriţi să ştergeţi acest articol?</string>
+    <string name="menuTitle">meniu</string>
+    <string name="viw">vedere</string>
+    <string name="selectCountry">Selectaţi ţara</string>
+    <string name="netOperator">operatorul de reţea</string>
+    <string name="ok">bine</string>
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فترات البث سريعة</string>
+    <string name="mainone">قطاع الاتصالات والفواتير، والتعبئة للهاتف النقال</string>
+    <string name="delete">حذف</string>
+    <string name="deleteall">حذف جميع</string>
+    <string name="continua">مواصلة</string>
+    <string name="send">أرسل</string>
+    <string name="typecountry">اكتب للبحث عن بلد</string>
+    <string name="discountcode">خصم مدونة</string>
+    <string name="discountcodetitle">الرجاء إدخال رمز الخصم</string>
+    <string name="discountdetail">* رموز الخصم لا تنطبق إلا على برامج مكافأة.</string>
+    <string name="discountdetail2">* فتوجه باستخدام تستمر إذا لم يكن لديك رمز الخصم.</string>
+    <string name="gatewayminerror">هذا الخيار دفع له حد أدنى من المعاملة\u0020</string>
+    <string name="amountmultiple">يجب أن تكون كمية دخلت في مضاعفات\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">من نحن</string>
+    <string name="viewHis">عرض التاريخ</string>
+    <string name="phonehint">رقم الهاتف (08022222222</string>
+    <string name="emailhint"> البريد الإلكتروني (you@yahoo.com)</string>
+    <string name="top1">الرجاء إدخال المعاملات الى رقم لفتح محادثة.</string>
+    <string name="top2">الرجاء ملاحظة: لدينا فريق لخدمة العملاء سوف تستجيب فقط لعدد المعاملات هوية صالحة</string>
+    <string name="livechat">المحادثة المباشرة</string>
+    <string name="topup2">من أعلى إلى أعلى</string>
+    <string name="transIdNum">المعاملات رقم الهوية</string>
+    <string name="hintmessage">أدخل الرسالة هنا</string>
+    <string name="open">فتح</string>
+    <string name="liveLabel">المحادثة المباشرة</string>
+    <string name="tryag">المحاولة مرة أخرى</string>
+    <string name="transExist">آسف رقم المعاملة أدخلته غير موجود</string>
+    <string name="vcountries">البلدان</string>
+    <string name="vlang">اللغات</string>
+    <string name="vcurrency">العملة</string>
+    <string name="welcome">ترحيب</string>
+    <string name="vpay">دفع</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">صفقة ناجحة</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">الرجاء اختيار التفضيلات</string>
+    <string name="iAgree">أنا أوافق على\u0020</string>
+    <string name="tandC">الشروط والاتفاق\u0020</string>
+    <string name="ofQuiA">من QuickAirTime.</string>
+    <string name="enter">أدخل</string>
+    <string name="copyrightFoot">جميع الحقوق محفوظة ©  www.quickairtime.com.  كافة الحقوق محفوظة.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">تغيير البلد</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">المعاملات التاريخ</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">اختيار اللغة</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">القيمة في</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">تأكيد الدفع</string>
+    <string name="topup">أعلى متابعة:\u0020</string>
+    <string name="amount">المبلغ:\u0020</string>
+    <string name="network">شبكة:\u0020</string>
+    <string name="tranid">عدد المعاملات تعريف:\u0020</string>
+    <string name="contactus">الاتصال بنا: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">من هذا الشراء.</string> 
+    <string name="paybyclick">يرجى الدفع باستخدام أي من خيارات الدفع المبينة أدناه</string>
+    <string name="date">تاريخ:\u0020</string>
+    <string name="time">مرة:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">تقرير المعاملات</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="sametran">نفس المعاملة</string>
+    <string name="newtran">معاملة جديدة</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">رقم الهاتف الجوال:\u0020</string>
+    <string name="email">عنوان البريد الإلكتروني:\u0020</string> 
+    <string name="dateTime">الوقت / التاريخ:\u0020</string>
+    <string name="goback">العودة</string>
+    <string name="reload">تحديث</string>
+    <string name="historyItem">التاريخ البند</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">الرجاء اختيار مشغل الشبكة صالحة.</string>
+    <string name="chooseValidEmail">الرجاء إدخال عنوان بريد إلكتروني صحيح.</string>
+    <string name="enterMinMax">الرجاء إدخال مبلغ صالح ضمن نطاق دقيقة ماكس.</string>
+    <string name="validPhoneNetwork">يرجى إدخال رقم هاتف صالح للشبكة الذي تم اختياره.</string>
+    <string name="enterValidPhone">يرجى إدخال رقم هاتف صالح.</string>
+    <string name="agreeTandC">عليك أن توافق على هذه الشروط والشروط قبل المتابعة.</string>
+    <string name="chooseCountryLang">الرجاء اختيار البلد واللغة المفضلة.</string>
+    <string name="delAllHistory">هل أنت متأكد أنك تريد حذف كافة العناصر التاريخ؟</string>
+    <string name="selectPrefOpt">الرجاء اختيار الخيار المفضل أدناه:</string>
+    <string name="noTrans">لم يتم تنفيذ اي معاملة من على الجهاز.</string>
+    <string name="errorTitle">خطأ</string>
+    <string name="delTitle">حذف</string>
+    <string name="delItem">هل أنت متأكد أنك تريد حذف هذا البند؟</string>
+    <string name="menuTitle">القائمة</string>
+    <string name="viw">عرض</string>
+    <string name="selectCountry">اختر البلد</string>
+    <string name="netOperator">شبكة المشغل</string>
+    <string name="ok">موافق</string>
+</resources>

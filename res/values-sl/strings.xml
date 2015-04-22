@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hitro ponudnik radijskih</string>
+    <string name="mainone">Zaračunavanje Telekomunikacije in mobilne polnjenja</string>
+    <string name="delete">Brisanje</string>
+    <string name="deleteall">Zbriši vse</string>
+    <string name="continua">Nadaljuj</string>
+    <string name="send">Pošlji</string>
+    <string name="typecountry">Vnesite za iskanje državo</string>
+    <string name="discountcode">popust zakonik</string>
+    <string name="discountcodetitle">Vpišite kodo popusta</string>
+    <string name="discountdetail">* Popust kode se uporabljajo samo za nagrajevanje programov.</string>
+    <string name="discountdetail2">* Prosimo, nadaljujte z uporabo nadaljujejo Če nimate popust kodo.</string>
+    <string name="gatewayminerror">To možnost plačila je najmanj transakcijski mejo\u0020</string>
+    <string name="amountmultiple">Predvideni znesek mora biti v sklopih\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">O podjetju</string>
+    <string name="viewHis">ogled zgodovine</string>
+    <string name="phonehint">Številka prenosnega telefona (08022222222)</string>
+    <string name="emailhint">E-poštni naslov (you@yahoo.com)</string>
+    <string name="top1">Vpišite številko transakcijskega ID odpreti pogovor.</string>
+    <string name="top2">OPOZORILO: Naša stranka storitev ekipa bo le odgovor na veljavno številko transakcijsko identifikacijsko</string>
+    <string name="livechat">Spletni pogovor v živo</string>
+    <string name="transIdNum">Transaction številka</string>
+    <string name="hintmessage">Vnesite sporočilo tukaj</string>
+    <string name="open">Odpri</string>
+    <string name="liveLabel">Podpora - Live Chat</string>
+    <string name="tryag">poskusite znova</string>
+    <string name="transExist">Žal mi je transakcija začela številka ne obstaja</string>
+    <string name="vcountries">države</string>
+    <string name="vlang">jeziki</string>
+    <string name="vcurrency">valuta</string>
+    <string name="welcome">Dobrodošli</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">transakcija uspešno</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Prosim, izberite nastavitve</string>
+    <string name="iAgree">Strinjam se\u0020</string>
+    <string name="tandC">Pogoji in sporazum\u0020</string>
+    <string name="ofQuiA">od QuickAirTime.</string>
+    <string name="enter">Vpišite</string>
+    <string name="copyrightFoot">Copyright ©  www.quickairtime.com. Vse pravice pridržane.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Zamenjaj državo</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">Transakcijski Zgodovina</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">Izberite jezik</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">vrednost v</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Plačilo potrditev</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Znesek:\u0020</string>
+    <string name="network">Operaterja:\u0020</string>
+    <string name="tranid">Transakcijski številka:\u0020</string>
+    <string name="contactus">Pišite nam: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">tega nakupa.</string> 
+    <string name="paybyclick">Prosimo, da plača z uporabo katerega koli od spodaj navedenih možnosti plačila</string>
+    <string name="date">Datum:\u0020</string>
+    <string name="time">čas:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">Transakcijski Poročilo</string>
+    <string name="retry">Ponovi</string>
+    <string name="sametran">Enako transakcije</string>
+    <string name="newtran">New Transaction</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Številka prenosnega telefona:\u0020</string>
+    <string name="email">E-poštni naslov:\u0020</string> 
+    <string name="dateTime">Datum / Čas:\u0020</string>
+    <string name="goback">Nazaj</string>
+    <string name="reload">Reload</string>
+    <string name="historyItem">Zgodovina Postavka</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Izberite veljavno operaterja omrežja.</string>
+    <string name="chooseValidEmail">Prosimo, vnesite veljaven e-poštni naslov.</string>
+    <string name="enterMinMax">Vnesite veljavno vrednost v min-max območju.</string>
+    <string name="validPhoneNetwork">Vnesite veljavno telefonsko številko za izbrano omrežje.</string>
+    <string name="enterValidPhone">Vnesite veljavno telefonsko številko.</string>
+    <string name="agreeTandC">Moraš se strinjate s pogoji pred postopkom.</string>
+    <string name="chooseCountryLang">Izberite državo in želeni jezik.</string>
+    <string name="delAllHistory">Ali ste prepričani, da želite izbrisati vse zgodovinske predmete?</string>
+    <string name="selectPrefOpt">Izberite želeno možnost pod:</string>
+    <string name="noTrans">Št Transakcija je bila izvedena na napravi.</string>
+    <string name="errorTitle">napaka</string>
+    <string name="delTitle">Izbriši</string>
+    <string name="delItem">Ali ste prepričani, da želite izbrisati ta element?</string>
+    <string name="menuTitle">meni</string>
+    <string name="viw">Poglej</string>
+    <string name="selectCountry">Izberi državo</string>
+    <string name="netOperator">mobilnega operaterja</string>
+</resources>

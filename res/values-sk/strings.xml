@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rýchla doba vysielania</string>
+    <string name="mainone">Telekomunikácie a mobilná fakturácia nabíjania</string>
+    <string name="delete">Odmietnuté</string>
+    <string name="deleteall">Zmazať</string>
+    <string name="continua">pokračovať</string>
+    <string name="send">Odoslať</string>
+    <string name="typecountry">Zadajte k hľadaniu krajiny</string>
+    <string name="discountcode">zľava kód</string>
+    <string name="discountcodetitle">Prosím zadajte svoj ​​zľavový kód</string>
+    <string name="discountdetail">* Zľavové kódy sú len pre odmenu programov.</string>
+    <string name="discountdetail2">* Pokračujte prosím pomocou naďalej Ak nemáte kód na zľavu.</string>
+    <string name="gatewayminerror">Tento spôsob platby má minimálny transakčné limit\u0020</string>
+    <string name="amountmultiple">Suma zaúčtovaná musí byť v násobkoch\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">O nás</string>
+    <string name="viewHis">Zobraziť históriu</string>
+    <string name="phonehint">Číslo mobilného telefónu (08022222222)</string>
+    <string name="emailhint">E-mailová adresa (you@yahoo.com)</string>
+    <string name="top1">Prosím zadajte číslo ID transakcie otvoriť rozhovor.</string>
+    <string name="top2">UPOZORNENIE: Náš zákaznícky servis tím bude reagovať len na platnú identifikačné číslo transakcie</string>
+    <string name="transIdNum">Transaction ID číslo</string>
+    <string name="hintmessage">Zadajte správu tu</string>
+    <string name="open">otvoriť</string>
+    <string name="liveLabel">Zákaznícka podpora - Live Chat</string>
+    <string name="tryag">skúste to znova</string>
+    <string name="transExist">Ospravedlňujeme sa transakcie zadané číslo neexistuje</string>
+    <string name="vcountries">krajiny</string>
+    <string name="vlang">jazyky</string>
+    <string name="vcurrency">Mena</string>
+    <string name="welcome">Vitajte</string>
+    <string name="vpay">zaplatiť</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">úspešná operácia</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Prosím vyberte predvoľby</string>
+    <string name="iAgree">Súhlasím s tým,\u0020</string>
+    <string name="tandC">Všeobecnej dohody\u0020</string>
+    <string name="ofQuiA">z QuickAirTime.</string>
+    <string name="enter">vstúpiť</string>
+    <string name="copyrightFoot">Copyright ©  www.quickairtime.com. Všetky práva vyhradené.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Zmena krajiny</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">Transakčné histórie</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">Vyberte si jazyk</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">hodnota v</string>
+    
+    <!-- Pay -->
+    <string name="payConfirm">Potvrdenie platby</string>
+    <string name="topup">Top-Up:\u0020</string>
+    <string name="amount">Množstvo:\u0020</string>
+    <string name="network">Network:\u0020</string>
+    <string name="tranid">Transaction ID číslo:\u0020</string>
+    <string name="contactus">Napíšte nám: airtime@mycoremobile.com</string>
+    <string name="ofpurchase">tohto nákupu.</string> 
+    <string name="paybyclick">Venujte, prosím, pomocou niektorého z nižšie uvedených možností platby</string>
+    <string name="date">Dátum:\u0020</string>
+    <string name="time">čas:\u0020</string>
+    
+    <!-- Transaction Report -->
+    <string name="tranReport">Hlásení o Obchode</string>
+    <string name="retry">Opakovaní</string>
+    <string name="sametran">Rovnaká transakcie</string>
+    <string name="newtran">Nový transakcie</string>
+    
+    <!-- History Item -->
+    <string name="phonenum">Číslo mobilného telefónu:\u0020</string>
+    <string name="email">E-mailová adresa:\u0020</string> 
+    <string name="dateTime">Dátum / čas:\u0020</string>
+    <string name="goback">Späť</string>
+    <string name="reload">Reload</string>
+    <string name="historyItem">História položky</string>
+    
+    <!-- Dialog Messages -->
+    <string name="chooseValidNetwork">Vyberte prosím platný od prevádzkovateľa siete.</string>
+    <string name="chooseValidEmail">Zadajte prosím platnú e-mailovú adresu.</string>
+    <string name="enterMinMax">Zadajte prosím platnú hodnotu v rozsahu min-max.</string>
+    <string name="validPhoneNetwork">Zadajte prosím platné telefónne číslo pre vybrané siete.</string>
+    <string name="enterValidPhone">Zadajte prosím platné telefónne číslo.</string>
+    <string name="agreeTandC">Musíte súhlasiť s podmienkami a pred pokračovaním.</string>
+    <string name="chooseCountryLang">Zvoľte si prosím krajinu a požadovaný jazyk.</string>
+    <string name="delAllHistory">Ste si istí, že chcete odstrániť všetky položky histórie?</string>
+    <string name="selectPrefOpt">Prosím, vyberte požadovanú možnosť nižšie:</string>
+    <string name="noTrans">Žiadne transakcia bola vykonaná na zariadení.</string>
+    <string name="errorTitle">chyba</string>
+    <string name="delTitle">vymazať</string>
+    <string name="delItem">Ste si istí, že chcete zmazať túto položku?</string>
+    <string name="menuTitle">menu</string>
+    <string name="viw">Prehliadať</string>
+    <string name="selectCountry">Vyberte krajinu</string>
+    <string name="netOperator">sieť operátora</string>
+</resources>

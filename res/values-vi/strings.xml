@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">nhanh đường truyền</string>
+    <string name="mainone">Thanh toán viễn thông và Nạp tiền điện thoại di động</string>
+    <string name="delete">Xóa</string>
+    <string name="deleteall">Xóa tất cả</string>
+    <string name="continua">Tiếp tục</string>
+    <string name="send">Gửi</string>
+    <string name="typecountry">Nhập để tìm kiếm cho đất nước</string>
+    <string name="discountcode">Giảm Mã</string>
+    <string name="discountcodetitle">Vui lòng nhập mã giảm giá của bạn</string>
+    <string name="discountdetail">* Các mã giảm giá chỉ áp dụng cho các chương trình phần thưởng.</string>
+    <string name="discountdetail2">* Xin vui lòng sử dụng tiếp tục Nếu bạn không có một mã giảm giá.</string>
+    <string name="gatewayminerror">Điều này tùy chọn thanh toán có một giới hạn giao dịch tối thiểu\u0020</string>
+    <string name="amountmultiple">Số tiền nhập vào phải là bội số của\u0020</string>
+    <string name="img1Desc">Core AirTime</string>
+    <string name="empty"></string>
+    <string name="about">Giới thiệu</string>
+    <string name="viewHis">xem Lịch sử</string>
+    <string name="phonehint">điện thoại di động Số điện thoại (08022222222)</string>
+    <string name="emailhint">Địa chỉ Email (you@yahoo.com)</string>
+    <string name="top1">Xin vui lòng nhập số ID giao dịch để mở một cuộc trò chuyện.</string>
+    <string name="top2">XIN LƯU Ý: đội ngũ dịch vụ khách hàng của chúng tôi sẽ chỉ trả lời một số Xác định giá trị giao dịch</string>
+    <string name="livechat">sống trò chuyện</string>
+    <string name="transIdNum">Số giao dịch ID</string>
+    <string name="hintmessage">Nội dung thông điệp tại đây</string>
+    <string name="open">mở</string>
+    <string name="liveLabel">Hỗ trợ khách hàng - Live Chat</string>
+    <string name="tryag">Hãy thử lại</string>
+    <string name="transExist">Xin lỗi giao dịch số lượng nhập không tồn tại</string>
+    <string name="vcountries">Các nước</string>
+    <string name="vlang">Ngôn ngữ</string>
+    <string name="vcurrency">Tiền tệ</string>
+    <string name="welcome">Chào mừng</string>
+    <string name="vpay">trả</string>
+    
+    <!-- Transaction Message -->
+    <string name="success">Giao dịch thành công</string>
+    
+    <!-- About Us -->
+    <string name="plsChoosePref">Xin vui lòng chọn tuỳ chọn</string>
+    <string name="iAgree">Tôi đồng ý với\u0020</string>
+    <string name="tandC">Điều khoản và Điều kiện\u0020</string>
+    <string name="ofQuiA">của QuickAirTime.</string>
+    <string name="enter">nhập</string>
+    <string name="copyrightFoot">Copyright © 2012 www.quickairtime.com. Tất cả các quyền.</string>
+    
+    <!-- Countries -->
+    <string name="chooseCountry">Chọn quốc gia</string>
+    
+    <!-- Transaction History -->
+    <string name="tranHis">Lịch sử giao dịch</string>
+    
+    <!-- Languages -->
+    <string name="chooseLang">Chọn ngôn ngữ</string>
+    
+    <!-- Local USD -->
+    <string name="paywith">giá trị Trong</string>
+    
+    <!-- Pay -->
+<string name="payConfirm">Thanh toán xác nhận</string>
+<string name="topup">Top-Up:\u0020</string>
+<string name="amount">Amount</string>
+<string name="tranid">giao dịch ID:\u0020</string>
+<string name="contactus">Liên hệ với chúng tôi: airtime@mycoremobile.com</string>
+<string name="ofpurchase">mua này.</string>
+<string name="paybyclick">Vui lòng thanh toán bằng cách sử dụng bất kỳ phần nào trong những lựa chọn thanh toán được liệt kê dưới đây</string>
+<string name="date">ngày:\u0020</string>
+<string name="time">Thời gian:\u0020</string>
+
+<!-- Transaction Report -->
+<string name="tranReport">Báo cáo Giao dịch\u0020</string>
+<string name="retry">Thử lại\u0020</string>
+<string name="sametran">Cùng giao dịch</string>
+<string name="newtran">New giao dịch</string>
+
+<!-- History Item -->
+<string name="phonenum">điện thoại di động Số điện thoại: </string>
+<string name="email">Địa chỉ Email:\u0020</string>
+<string name="dateTime">Ngày / Giờ:\u0020</string>
+<string name="goback">Trở lại</string>
+<string name="reload">Reload</string>
+<string name="historyItem">Lịch sử khoản</string>
+
+<!-- Dialog Messages -->
+<string name="chooseValidNetwork">Hãy chọn một nhà điều hành mạng hợp lệ.</string>
+<string name="chooseValidEmail">Xin vui lòng nhập một địa chỉ email hợp lệ.</string>
+<string name="enterMinMax">Xin vui lòng nhập một số tiền hợp lệ trong phạm vi min-max.</string>
+<string name="validPhoneNetwork">Xin vui lòng nhập một số điện thoại hợp lệ cho các mạng đã chọn.</string>
+<string name="enterValidPhone">Xin vui lòng nhập một số điện thoại hợp lệ.</string>
+<string name="agreeTandC">Bạn phải đồng ý với các điều khoản và điều kiện trước khi tiến hành.</string>
+<string name="chooseCountryLang">Hãy chọn một quốc gia và ngôn ngữ ưa thích.</string>
+<string name="delAllHistory">Bạn có chắc bạn muốn xóa tất cả các mục lịch sử</string>
+<string name="selectPrefOpt">chọn lựa chọn ưa thích dưới đây:</string>
+<string name="noTrans">Không có giao dịch đã được thực hiện trên thiết bị.</string>
+<string name="errorTitle">Lỗi</string>
+<string name="delTitle">Xóa</string>
+<string name="delItem">bạn chắc chắn rằng bạn muốn xóa mặt hàng này?</string>
+<string name="menuTitle">Menu</string>
+<string name="viw">Xem</string>
+<string name="selectCountry">Chọn quốc gia</string>
+<string name="netOperator">Network Operator</string>
+</resources>

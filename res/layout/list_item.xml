@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="#629632">
+<TextView
+android:id="@+id/rowDate"
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+android:padding="10dp"
+android:textSize="12sp"
+android:scrollbars="vertical"
+android:fadingEdge="vertical"
+android:textColor="#ffffff"
+android:layout_alignParentRight="true"
+/>
+<TextView
+android:id="@+id/row"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:padding="10dp"
+android:scrollbars="vertical"
+android:fadingEdge="vertical"
+android:textSize="14sp"
+android:textColor="#ffffff"
+android:layout_alignParentRight="true"
+android:layout_alignParentLeft="@+id/rowDate"
+/>
+<ImageView
+android:id="@+id/rowImage"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:contentDescription="@string/empty"
+android:layout_alignParentLeft="@+id/row"
+/>
+</RelativeLayout>
